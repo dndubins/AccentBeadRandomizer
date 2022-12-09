@@ -15,4 +15,5 @@ Minimum Distance Between Beads:	0.2	inches (set to 0.1 to allow adjacent accent 
 0         1         2         3         4         5         6         7
 ```
 
-The ruler on the bottom is in inches, and the smallest division is 0.1".
+The ruler on the bottom is in inches, and the smallest division is 0.1".<p>
+Enter the parameters that you would like, and click "Randomize!". If you don't like the pattern that is generated, just click the "Randomize!" button again. Enjoy!
