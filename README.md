@@ -1,6 +1,6 @@
 # AccentBeadRandomizer
 
-My latest hobby is making jewellery, and specifically, beading. But how do you place accent beads along a string to make it look as if it were random? You can just arbitrarily add them as you go along, but if you are me - this is a very difficult task. I like a plan, ahead of time.<p>
+My latest hobby is making jewellery, and specifically, beading. But how do you place accent beads along a string to make it look as if they were scattered randomly and haphazardly? You can just arbitrarily add them as you go along, but if you are me - this is a very difficult task. I like a plan, ahead of time.<p>
 
 This Microsoft Excel spreadsheet helps to solve this problem. Specifying a bit of dead space at each end, the Visual Basic macro places a desired number of accent beads randomly along the planned length of a bracelet, anklet, or necklace. A to-scale map is generated with a ruler below. For example, here is the output for a 7" bracelet with 1" dead space at each end, and a minimum distance between beads of 0.2":<p>
 
