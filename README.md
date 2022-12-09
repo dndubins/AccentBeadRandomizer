@@ -9,8 +9,8 @@ Length of Bracelet:	7	inches
 Restricted Space at Ends:	1	inches				
 Minimum Distance Between Beads:	0.2	inches (set to 0.1 to allow adjacent accent beads)<p>
 
--------------O---------O----------O--------------O--------O------------					
+'''-------------O---------O----------O--------------O--------O------------					
 |----+----|----+----|----+----|----+----|----+----|----+----|----+----|					
-0         1         2         3         4         5         6         7<p>	
+0         1         2         3         4         5         6         7'''
 
 The ruler on the bottom is in inches, and the smallest division is 0.1".
