@@ -12,8 +12,8 @@ This Microsoft Excel spreadsheet helps to solve this problem. Specifying a bit o
 ```
 -----------O------------------O--O-----O----------------O--O-----------
 |----+----|----+----|----+----|----+----|----+----|----+----|----+----|	
-0         1         2         3         4         5         6         7
+0         1         2         3         4         5         6         7 inches
 ```
 
-The ruler on the bottom is in inches, and the smallest division is 0.1".<p>
+The precision of the ruler is 0.1".<p>
 Enter the parameters that you would like, and click "Randomize!". If you don't like the pattern that is generated, just click the "Randomize!" button again. Enjoy!
