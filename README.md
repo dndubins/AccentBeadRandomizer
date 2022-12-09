@@ -5,9 +5,9 @@ My latest hobby is making jewellery, and specifically, beading. But how do you p
 This Microsoft Excel spreadsheet helps to solve this problem. Specifying a bit of dead space at each end, the Visual Basic macro places a desired number of accent beads randomly along the planned length of a bracelet, anklet, or necklace. A to-scale map is generated with a ruler below. For example, here is the output for a 7" bracelet with 1" dead space at each end, and a minimum distance between beads of 0.2":<p>
 
   <b>Number of Accent Beads:</b>	6	beads<br>
-Length of Bracelet:	7	inches<br>
-Restricted Space at Ends:	0.5	inches<br>				
-Minimum Distance Between Beads:	0.2	inches (set to 0.1 to allow adjacent accent beads)<p>
+  <b>Length of Bracelet:</b>	7	inches<br>
+  <b>Restricted Space at Ends:</b>	0.5	inches<br>				
+  <b>Minimum Distance Between Beads:</b>	0.2	inches (set to 0.1 to allow adjacent accent beads)<p>
 
 ```
 -----------O------------------O--O-----O----------------O--O-----------
