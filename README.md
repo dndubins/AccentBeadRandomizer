@@ -39,8 +39,8 @@ The "n Colours" spreadsheet will randomly stagger n types of beads along the str
 <b>Bead Diameter:</b> 8 mm<br>
 <b>Length of Strand:</b> 8 inches<br>
 <b>Number of Beads:</b> 26 beads<br>	
-<b>Number of types of beads:</b> 3<br>	
-<b>Max # adjacent beads same type:</b> 3<br>	
+<b>Number Bead Types:</b> 3<br>	
+<b>Max # Adjacent Beads of Same Type:</b> 3<br>	
 
 ```
 BBCCACACBCBCABBBABABACABCC
