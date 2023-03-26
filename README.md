@@ -34,7 +34,7 @@ The "By Wandering" spreadsheet starts each accent bead off at its theoretically 
 ```
 
 ## n Colours
-The "n Colours" spreadsheet will randomly stagger n types of beads along the string, with a constraint on the maximum number of adjacent beads of the same type. The algorithm does not ensure an even distribution of the types of beads. Hit "Randomize" until you are satisfied with the distribution. For example, here is the output for an 8" necklace with 3 types of beads, and a maximum of three adjacent beads of the same type:<p>
+The "n Colours" spreadsheet will randomly stagger n types of beads along the string, with a constraint on the maximum number of adjacent beads of the same type. The "Randomize" button performs one random test, and does not ensure an even distribution of the types of beads. The "Balance Types" button will try and balance the number of beads for an even distribution.
 
 <b>Bead Diameter:</b> 8 mm<br>
 <b>Length of Strand:</b> 8 inches<br>
