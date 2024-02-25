@@ -45,5 +45,6 @@ The "n Colours" spreadsheet will randomly stagger n types of beads along the str
 ```
 BBCCACACBCBCABBBABABACABCC
 ```
+Also in this directory is a font from an old Underwood typewriter that I found in an antique store. So cute!
 
 Enjoy!
